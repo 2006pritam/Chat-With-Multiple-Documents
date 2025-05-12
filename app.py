@@ -15,8 +15,7 @@ import requests
 load_dotenv()
 
 # Set the Google API key
-os.getenv("GOOGLE_API_KEY")
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
 
 
