@@ -1,4 +1,4 @@
-# 📚 ChatPDF with Gemini 💬
+# 📚 ChatPDF 💬
 
 A powerful Streamlit web app that allows users to interact with their PDF documents. Upload multiple PDFs, ask complex questions, and get intelligent, context-aware answers — all in real-time.
 
@@ -26,8 +26,8 @@ A powerful Streamlit web app that allows users to interact with their PDF docume
 ## 📸 App Preview
  
 > Example:  
-> ![App Screenshot](Images\img1.png)
-> ![App Screenshot](Images\img2.png)
+> ![App Screenshot](Images/img1.png)
+> ![App Screenshot](Images/img2.png)
 
 ---
 
