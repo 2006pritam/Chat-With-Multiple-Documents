@@ -92,7 +92,7 @@ def main():
     st.set_page_config(page_title="Chat PDF", page_icon="📄", layout="wide")
 
     # === MAIN PAGE ===
-    st.markdown("<h1 style='text-align: center; color:#4B8BBE;'>💬 ChatPDF</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color:#4B8BBE;'>📚 ChatPDF</h1>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center;'>Upload multiple PDF files and chat with them intelligently using AI.</p>", unsafe_allow_html=True)
     st.divider()
 
