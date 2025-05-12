@@ -15,8 +15,6 @@ import requests
 # Set the Google API key
 genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
-
-
 #define the function to get the text from the pdf
 def get_pdf_text(pdf_docs):
     text=""
