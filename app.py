@@ -12,8 +12,6 @@ from langchain.prompts import PromptTemplate
 from dotenv import load_dotenv
 import requests
 
-load_dotenv()
-
 # Set the Google API key
 genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
