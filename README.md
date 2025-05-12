@@ -27,6 +27,7 @@ A powerful Streamlit web app that allows users to interact with their PDF docume
  
 > Example:  
 > ![App Screenshot](Images/img1.png)
+> ---
 > ![App Screenshot](Images/img2.png)
 
 ---
