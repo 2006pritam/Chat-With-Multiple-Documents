@@ -2,6 +2,9 @@
 
 A powerful Streamlit web app that allows users to interact with their PDF documents. Upload multiple PDFs, ask complex questions, and get intelligent, context-aware answers — all in real-time.
 
+🔗 Try it here: [https://achatwithpdf.streamlit.app](https://achatwithpdf.streamlit.app)
+
+
 ---
 
 ## 🚀 Features
